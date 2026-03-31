@@ -2,7 +2,7 @@
   {
     "name": "Tachiyomi: nHentai - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentaiupdated",
-    "apk": "apks/tachiyomi-all.nhentaiupdated-v1.4.4-debug.apk",
+    "apk": "apks/tachiyomi-all.nhentaiupdated-v1.4.4-release.apk",
     "lang": "all",
     "code": 4,
     "version": "1.4.4",
@@ -19,7 +19,7 @@
   {
     "name": "Tachiyomi: Pururin - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.extension.all.pururin",
-    "apk": "apks/tachiyomi-all.pururin-v1.4.11-debug.apk",
+    "apk": "apks/tachiyomi-all.pururin-v1.4.11-release.apk",
     "lang": "all",
     "code": 11,
     "version": "1.4.11",
@@ -36,7 +36,7 @@
   {
     "name": "Tachiyomi: E-Hentai - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
-    "apk": "apks/tachiyomi-all.ehentai-v1.4.27-debug.apk",
+    "apk": "apks/tachiyomi-all.ehentai-v1.4.27-release.apk",
     "lang": "all",
     "code": 27,
     "version": "1.4.27",
@@ -53,7 +53,7 @@
   {
     "name": "Tachiyomi: Hitomi - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "apks/tachiyomi-all.hitomi-v1.4.42-debug.apk",
+    "apk": "apks/tachiyomi-all.hitomi-v1.4.42-release.apk",
     "lang": "all",
     "code": 42,
     "version": "1.4.42",
@@ -70,7 +70,7 @@
   {
     "name": "Tachiyomi: Hentai2Read - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai2read",
-    "apk": "apks/tachiyomi-en.hentai2read-v1.4.19-debug.apk",
+    "apk": "apks/tachiyomi-en.hentai2read-v1.4.19-release.apk",
     "lang": "en",
     "code": 19,
     "version": "1.4.19",
@@ -87,7 +87,7 @@
   {
     "name": "Tachiyomi: Hentai20 - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai20",
-    "apk": "apks/tachiyomi-en.hentai20-v1.4.40-debug.apk",
+    "apk": "apks/tachiyomi-en.hentai20-v1.4.40-release.apk",
     "lang": "en",
     "code": 40,
     "version": "1.4.40",
