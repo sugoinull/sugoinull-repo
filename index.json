@@ -282,10 +282,10 @@
   {
     "name": "Tachiyomi: nHentai - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentaiupdated",
-    "apk": "tachiyomi-all.nhentaiupdated-v1.4.4.apk",
+    "apk": "tachiyomi-all.nhentaiupdated-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
@@ -356,6 +356,23 @@
         "lang": "en",
         "id": "7278255701213167152",
         "baseUrl": "https://hentai2read.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: nHentai - SugoiNull - Inglês",
+    "pkg": "eu.kanade.tachiyomi.extension.en.nhentaiupdateden",
+    "apk": "tachiyomi-en.nhentaiupdateden-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "nHentai - SugoiNull - Inglês",
+        "lang": "en",
+        "id": "3449364639921099305",
+        "baseUrl": "https://nhentai.net"
       }
     ]
   }
