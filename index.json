@@ -1,5 +1,39 @@
 [
   {
+    "name": "Aniyomi: Aniture PT - SugoiNull",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.aniturept",
+    "apk": "aniyomi-pt.aniturept-v14.4.apk",
+    "lang": "pt",
+    "code": 4,
+    "version": "14.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Aniture PT - SugoiNull",
+        "lang": "pt-BR",
+        "id": "5879242703249490738",
+        "baseUrl": "https://aniture-pt.com.br"
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Anime Fire - SugoiNull",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
+    "apk": "aniyomi-pt.animefire-v14.7.apk",
+    "lang": "pt",
+    "code": 7,
+    "version": "14.7",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Anime Fire - SugoiNull",
+        "lang": "pt-BR",
+        "id": "6314087804593276797",
+        "baseUrl": "https://animefire.io"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: E-Hentai - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
     "apk": "tachiyomi-all.ehentai-v1.4.27.apk",
